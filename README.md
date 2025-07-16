@@ -30,9 +30,6 @@ git clone https://github.com/govu-ux/login-react.git
 
 ---
 
-## 📸 Screenshots
-
-> *(You can add screenshots here if available)*
 
 ---
 
